@@ -1,6 +1,5 @@
 
 
-
 -- one parent rows can have many child rows
 -- one user can write many posts
 -- but one post belongs to one user
@@ -8,7 +7,7 @@
 -- users -> parent table
 -- post -> child table
 
--- posts.user_id -> user.id
+-- posts.user_id -> users.id
 
 
 -- users.id is the original user id

@@ -1,6 +1,6 @@
 
 
--- inner join returns only returns only the matching rows from both tables but there has to be a matching condition.
+-- inner join returns only the matching rows from both tables but there has to be a matching condition.
 
 SELECT  
     users.name AS author_name,

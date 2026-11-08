@@ -18,4 +18,4 @@ RETURNING id, name, category, price, created_at;
 
 SELECT name, category, price
 FROM products
-WHERE sku ='ÉLE-030' 
+WHERE sku ='ELE-030'
